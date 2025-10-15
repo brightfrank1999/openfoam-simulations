@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<!-- time='0.800455' -->
+<VTKFile type='PolyData' version='0.1' byte_order='LittleEndian' header_type='UInt64'>
+  <PolyData>
+    <FieldData>
+      <DataArray type='Float32' Name='TimeValue' NumberOfTuples='1' format='binary'>
+BAAAAAAAAACX6kw/
+      </DataArray>
+    </FieldData>
+    <Piece NumberOfPoints='145'>
+      <Points>
+        <DataArray type='Float32' Name='Points' NumberOfComponents='3' format='binary'>
+zAYAAAAAAADNzEw+bgUBPQrXozvNzEw+QioHPQrXozvNzEw+F08NPQrXozvNzEw+63MTPQrXozvNzEw+v5gZPQrXozvNzEw+lL0fPQrXozvNzEw+aOIlPQrXozvNzEw+PQcsPQrXozvNzEw+ESwyPQrXozvNzEw+5lA4PQrXozvNzEw+unU+PQrXozvNzEw+j5pEPQrXozvNzEw+BaxRPQrXozvNzEw+fL1ePQrXozvNzEw+8s5rPQrXozvNzEw+aeB4PQrXozvNzEw+8PiCPQrXozvNzEw+q4GJPQrXozvNzEw+ZgqQPQrXozvNzEw+IpOWPQrXozvNzEw+3RudPQrXozvNzEw+mKSjPQrXozvNzEw+VC2qPQrXozvNzEw+D7awPQrXozvNzEw+yj63PQrXozvNzEw+hse9PQrXozvNzEw+QVDEPQrXozvNzEw+/NjKPQrXozvNzEw+t2HRPQrXozvNzEw+c+rXPQrXozvNzEw+LnPePQrXozvNzEw+6fvkPQrXozvNzEw+pYTrPQrXozvNzEw+YA3yPQrXozvNzEw+G5b4PQrXozvNzEw+1h7/PQrXozvNzEw+ydMCPgrXozvNzEw+JxgGPgrXozvNzEw+hFwJPgrXozvNzEw+4qAMPgrXozvNzEw+P+UPPgrXozvNzEw+nSkTPgrXozvNzEw++20WPgrXozvNzEw+WLIZPgrXozvNzEw+tvYcPgrXozvNzEw+FDsgPgrXozvNzEw+cX8jPgrXozvNzEw+z8MmPgrXozvNzEw+LQgqPgrXozvNzEw+ikwtPgrXozvNzEw+6JAwPgrXozvNzEw+RtUzPgrXozvNzEw+oxk3PgrXozvNzEw+AV46PgrXozvNzEw+X6I9PgrXozvNzEw+vOZAPgrXozvNzEw+GitEPgrXozvNzEw+d29HPgrXozvNzEw+1bNKPgrXozvNzEw+M/hNPgrXozvNzEw+kDxRPgrXozvNzEw+7oBUPgrXozvNzEw+TMVXPgrXozvNzEw+qQlbPgrXozvNzEw+B05ePgrXozvNzEw+ZZJhPgrXozvNzEw+wtZkPgrXozvNzEw+IBtoPgrXozvNzEw+fl9rPgrXozvNzEw+26NuPgrXozvNzEw+OehxPgrXozvNzEw+lyx1PgrXozvNzEw+9HB4PgrXozvNzEw+UrV7PgrXozvNzEw+sPl+PgrXozvNzEw+Bx+BPgrXozvNzEw+NcGCPgrXozvNzEw+ZGOEPgrXozvNzEw+kwWGPgrXozvNzEw+wqeHPgrXozvNzEw+8UmJPgrXozvNzEw+IOyKPgrXozvNzEw+To6MPgrXozvNzEw+fTCOPgrXozvNzEw+rNKPPgrXozvNzEw+23SRPgrXozvNzEw+CheTPgrXozvNzEw+OLmUPgrXozvNzEw+Z1uWPgrXozvNzEw+lv2XPgrXozvNzEw+xZ+ZPgrXozvNzEw+9EGbPgrXozvNzEw+I+ScPgrXozvNzEw+UYaePgrXozvNzEw+gCigPgrXozvNzEw+r8qhPgrXozvNzEw+3myjPgrXozvNzEw+DQ+lPgrXozvNzEw+PLGmPgrXozvNzEw+alOoPgrXozvNzEw+mfWpPgrXozvNzEw+yJerPgrXozvNzEw+9zmtPgrXozvNzEw+JtyuPgrXozvNzEw+VH6wPgrXozvNzEw+gyCyPgrXozvNzEw+ssKzPgrXozvNzEw+4WS1PgrXozvNzEw+EAe3PgrXozvNzEw+P6m4PgrXozvNzEw+bUu6PgrXozvNzEw+nO27PgrXozvNzEw+y4+9PgrXozvNzEw++jG/PgrXozvNzEw+KdTAPgrXozvNzEw+WHbCPgrXozvNzEw+hhjEPgrXozvNzEw+tbrFPgrXozvNzEw+5FzHPgrXozvNzEw+E//IPgrXozvNzEw+QqHKPgrXozvNzEw+cEPMPgrXozvNzEw+n+XNPgrXozvNzEw+zofPPgrXozvNzEw+/SnRPgrXozvNzEw+LMzSPgrXozvNzEw+W27UPgrXozvNzEw+iRDWPgrXozvNzEw+uLLXPgrXozvNzEw+51TZPgrXozvNzEw+RZncPgrXozvNzEw+dDvePgrXozvNzEw+ot3fPgrXozvNzEw+0X/hPgrXozvNzEw+ACLjPgrXozvNzEw+XmbmPgrXozvNzEw+u6rpPgrXozvNzEw+dzPwPgrXozvNzEw+Mrz2PgrXozvNzEw+7UT9PgrXozvNzEw+1OYBPwrXozvNzEw+MisFPwrXozvNzEw+kG8IPwrXozvNzEw+7bMLPwrXozvNzEw+S/gOPwrXozs=
+        </DataArray>
+      </Points>
+      <PointData>
+        <DataArray type='Float32' Name='alpha.water' format='binary'>
+RAIAAAAAAAAAAIA/AACAP/3/fz/h/38/Z/9/P12nfT9zW2I/ajspPyPANz7gQPA+iw7zPu969D7Uu4U+VfIKP5Lf5T4ptYc+/gHlPQBGaD167088RWJgPAH8xjzSCUw9w3yoPeen6T0EGy8+hMIEPcrjGjxWDb087HNiPB8c0z2VkXw9zCQoPNHeyTu5OWY7PZc4OgEErjmD9/c5Ch1rOt89XDo7gEc6oau5OtBtWDrmsro5Sq6AOEkfODoqnOY6MdYWOzIJ3zrHoyK5Fg4QOnmVejnMA1Y5/Ua6uOaBJjp2JCw6DBEFOnQeMrj9Tt85T0yKOhjg5jqFfiG7702MOkOvmThDZaA3wX1Ptau4szgfK2A5ncT/OfgePrpk5Is6k6BYOmoB0jlaegU5IoFMOMVSOjpLagY7sYVPuk6XYjp54Hs6RQW2Oi7BaTqQ0F07uBN8O/GZbjsFHYi5iMv4OvcAETsD7mo773HwO7W2CTsgaec55KRZOoAk2Tp9+II7JuyMOzEDgTut6ys7UmEkOqbaXDnFZrw5OneJOhOSIjrfPJg5opa5ON1vWDn8UTU6TIuiOqdNpzoeSkA69LJZOloHCDoO2z059Hi3N31Vfzkt45o5jzCLOXv8kbeqogQ6NU2OOpbynjqLigI6rh91OrgXPzpEClc6C4gLO4oFsDr23K06MZiYOt946zppkXk5R+NqOR0CKbhoUzM66+cmOiq1vznY1gg3lgIJNfw9HzIe5LowKfrlMEXW9y+lqzwkM7VNJRUGLCV/SDgi
+        </DataArray>
+      </PointData>
+    </Piece>
+  </PolyData>
+</VTKFile>

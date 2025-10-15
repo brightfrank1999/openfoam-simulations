@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<!-- time='0.160065' -->
+<VTKFile type='PolyData' version='0.1' byte_order='LittleEndian' header_type='UInt64'>
+  <PolyData>
+    <FieldData>
+      <DataArray type='Float32' Name='TimeValue' NumberOfTuples='1' format='binary'>
+BAAAAAAAAAAd6CM+
+      </DataArray>
+    </FieldData>
+    <Piece NumberOfPoints='10'>
+      <Points>
+        <DataArray type='Float32' Name='Points' NumberOfComponents='3' format='binary'>
+eAAAAAAAAAAK16M8M/hNPgrXozsK16M8kDxRPgrXozsK16M87oBUPgrXozsK16M8TMVXPgrXozsK16M8qQlbPgrXozsK16M8B05ePgrXozsK16M8ZZJhPgrXozsK16M8IBtoPgrXozsK16M8lyx1PgrXozsK16M8Bx+BPgrXozs=
+        </DataArray>
+      </Points>
+      <PointData>
+        <DataArray type='Float32' Name='alpha.water' format='binary'>
+KAAAAAAAAAA/J38/8eV1P23gGD9JXQw+Q7ivq7WmTayp/4Ss8cSUrEiyEqxeKJGr
+        </DataArray>
+      </PointData>
+    </Piece>
+  </PolyData>
+</VTKFile>
