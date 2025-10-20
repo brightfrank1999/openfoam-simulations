@@ -1,0 +1,55 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  v2412                                 |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    object      turbulenceProperties;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+//simulationType      RAS;
+simulationType     LES;
+
+LES
+{
+    LESModel      Smagorinsky;
+
+    turbulence    on;
+
+    printCoeffs   on;
+
+    delta         cubeRootVol;
+
+    cubeRootVolCoeffs
+    {
+    // Optional entries
+
+    // Multiplier
+        deltaCoeff      1;
+    }
+
+//    dynamicKEqnCoeffs
+//    {
+//        filter simple;
+//    }
+
+}
+/*
+RAS
+{
+    RASModel        kEpsilon;
+
+    turbulence      on;
+
+    printCoeffs     on;
+}
+*/
+
+// ************************************************************************* //

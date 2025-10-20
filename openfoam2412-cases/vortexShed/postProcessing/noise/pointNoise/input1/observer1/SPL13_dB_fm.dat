@@ -1,0 +1,11 @@
+# fm [Hz] vs SPL(fm) [dB]
+# Lower frequency: 2.50000000e+01
+# Upper frequency: 1.00000000e+04
+# Window model  : Hanning
+# Window number : 3
+# Window samples: 4096
+# Window overlap %: 5.00000000e+01
+# dBRef         : 2.00000000e-05
+# fm            	SPL(fm)         
+3.12500000e+01	-1.26001121e+02
+3.93725328e+01	-1.28478376e+02

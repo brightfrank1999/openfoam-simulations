@@ -1,0 +1,18 @@
+FORMAT
+type: ensight gold
+
+GEOMETRY
+model:  1   data/********/geometry
+
+VARIABLE
+scalar per element: 1  SPL13           data/********/SPL13
+
+TIME
+time set:               1
+number of steps:        2
+filename start number:  0
+filename increment:     1
+time values:
+  3.12500e+01  3.93725e+01
+
+# end

@@ -1,0 +1,15 @@
+// State file for writer output
+
+times           2 ( 31.25 39.37253280921478 );
+
+geometry        2 ( 0 1 );
+
+fields
+{
+    SPL13
+    {
+        type            "scalar";
+    }
+}
+
+// End
