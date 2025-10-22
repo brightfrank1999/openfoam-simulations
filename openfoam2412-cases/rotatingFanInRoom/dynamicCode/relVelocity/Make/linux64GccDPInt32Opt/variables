@@ -1,0 +1,1 @@
+LIB = $(PWD)/../platforms/$(WM_OPTIONS)/lib/librelVelocity_aef22c59d3d1023dd90795d029b22ed3b6111070
